@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533741222 source:d:\code\c++\testcharp3\subtractionquiz.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
