@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533786680 source:d:\code\c++\testcharp9\src\testcircle.cpp
+	"TestCircle.h"
+
+1533786637 d:\code\c++\testcharp9\include\testcircle.h
+
+1533786593 source:d:\code\c++\testcharp9\testcirclemain.cpp
+	<iostream>
+	"TestCircle.h"
+
+1533805359 source:d:\code\c++\testcharp9\src\loan.cpp
+	"Loan.h"
+
+1533805359 d:\code\c++\testcharp9\include\loan.h
+
